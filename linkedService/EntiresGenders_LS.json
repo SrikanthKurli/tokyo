@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/SrikanthKurli/tokyo/main/Data/EntiresGender.csv",
+			"url": "https://raw.githubusercontent.com/SrikanthKurli/tokyo/main/Data/EntriesGender.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
