@@ -57,7 +57,7 @@
 						"referenceName": "ADLS_DS",
 						"type": "DatasetReference",
 						"parameters": {
-							"filename": "Athletes"
+							"filename": "athletes.csv"
 						}
 					}
 				]
@@ -124,7 +124,7 @@
 						"referenceName": "ADLS_DS",
 						"type": "DatasetReference",
 						"parameters": {
-							"filename": "coaches"
+							"filename": "coaches.csv"
 						}
 					}
 				]
@@ -191,7 +191,7 @@
 						"referenceName": "ADLS_DS",
 						"type": "DatasetReference",
 						"parameters": {
-							"filename": "EntiresGender"
+							"filename": "entiresgender.csv"
 						}
 					}
 				]
@@ -258,7 +258,7 @@
 						"referenceName": "ADLS_DS",
 						"type": "DatasetReference",
 						"parameters": {
-							"filename": "medals"
+							"filename": "medals.csv"
 						}
 					}
 				]
@@ -325,7 +325,7 @@
 						"referenceName": "ADLS_DS",
 						"type": "DatasetReference",
 						"parameters": {
-							"filename": "Teams"
+							"filename": "teams.csv"
 						}
 					}
 				]
