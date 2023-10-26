@@ -1,0 +1,12 @@
+{
+	"name": "Athletes_LS",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/SrikanthKurli/tokyo/blob/main/Data/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
