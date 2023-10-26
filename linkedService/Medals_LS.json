@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/SrikanthKurli/tokyo/main/Data/Medals.csv",
+			"url": "https://github.com/SrikanthKurli/tokyo/blob/main/Data/Medals.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
