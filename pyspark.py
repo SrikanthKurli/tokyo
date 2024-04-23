@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, regexp_replace, trim
 from pyspark.sql.types import IntegerType, DoubleType, BooleanType, DateType
 
-#new comment from git
+#new comment from git hub
 configs = {"fs.azure.account.auth.type": "OAuth",
 "fs.azure.account.oauth.provider.type": "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider",
 "fs.azure.account.oauth2.client.id": "dd4460e8-26da-48ad-9f74-801c1d80e331",
